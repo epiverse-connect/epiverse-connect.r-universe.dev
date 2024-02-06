@@ -74,5 +74,13 @@
   {
     "package": "scenarios",
     "url": "https://github.com/epiverse-trace/scenarios"
+  },
+  {
+    "package": "numberize",
+    "url": "https://github.com/epiverse-trace/numberize"
+  },
+  {
+    "package": "ColOpenData",
+    "url": "https://github.com/epiverse-trace/ColOpenData"
   }
 ]
