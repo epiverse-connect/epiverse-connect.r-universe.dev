@@ -1,25 +1,5 @@
 [
   {
-    "package": "linelist",
-    "url": "https://github.com/epiverse-trace/linelist"
-  },
-  {
-    "package": "finalsize",
-    "url": "https://github.com/epiverse-trace/finalsize"
-  },
-  {
-    "package": "bpmodels",
-    "url": "https://github.com/epiverse-trace/bpmodels"
-  },
-  {
-    "package": "serofoi",
-    "url": "https://github.com/epiverse-trace/serofoi"
-  },
-  {
-    "package": "epiparameter",
-    "url": "https://github.com/epiverse-trace/epiparameter"
-  },
-  {
     "package": "epiCo",
     "url": "https://github.com/epiverse-trace/epiCo"
   },
@@ -40,10 +20,6 @@
     "url": "https://github.com/epiverse-trace/vaccineff"
   },
   {
-    "package": "simulist",
-    "url": "https://github.com/epiverse-trace/simulist"
-  },
-  {
     "package": "epidemics",
     "url": "https://github.com/epiverse-trace/epidemics"
   },
@@ -54,14 +30,6 @@
   {
     "package": "iraca",
     "url": "https://github.com/epiverse-trace/iraca"
-  },
-  {
-    "package": "cfr",
-    "url": "https://github.com/epiverse-trace/cfr"
-  },
-  {
-    "package": "superspreading",
-    "url": "https://github.com/epiverse-trace/superspreading"
   },
   {
     "package": "episoap",
