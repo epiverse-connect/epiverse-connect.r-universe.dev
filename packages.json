@@ -212,10 +212,6 @@
     "url": "https://github.com/reconhub/epiflows"
   },
   {
-    "package": "epimdr",
-    "url": "https://github.com/objornstad/epimdr"
-  },
-  {
     "package": "epinet",
     "url": "https://github.com/cran/epinet"
   },
@@ -233,7 +229,8 @@
   },
   {
     "package": "epitweetr",
-    "url": "https://github.com/EU-ECDC/epitweetr"
+    "url": "https://github.com/EU-ECDC/epitweetr",
+    "subdir": "epitweetr"
   },
   {
     "package": "etm",
@@ -242,10 +239,6 @@
   {
     "package": "finalsize",
     "url": "https://github.com/epiverse-trace/finalsize"
-  },
-  {
-    "package": "i2extras",
-    "url": "https://github.com/reconverse/i2extras"
   },
   {
     "package": "incidence",
