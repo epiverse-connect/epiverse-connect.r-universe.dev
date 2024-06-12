@@ -1,54 +1,354 @@
 [
   {
-    "package": "epiCo",
-    "url": "https://github.com/epiverse-trace/epiCo"
+    "package": "AMR",
+    "url": "https://github.com/msberends/AMR"
   },
   {
-    "package": "epichains",
-    "url": "https://github.com/epiverse-trace/epichains"
+    "package": "Bernadette",
+    "url": "https://github.com/bernadette-eu/Bernadette"
   },
   {
-    "package": "readepi",
-    "url": "https://github.com/epiverse-trace/readepi"
+    "package": "COVID19",
+    "url": "https://github.com/covid19datahub/COVID19"
   },
   {
-    "package": "cleanepi",
-    "url": "https://github.com/epiverse-trace/cleanepi"
+    "package": "CovidMutations",
+    "url": "https://github.com/MSQ-123/CovidMutations"
   },
   {
-    "package": "vaccineff",
-    "url": "https://github.com/epiverse-trace/vaccineff"
+    "package": "DSAIDE",
+    "url": "https://github.com/ahgroup/DSAIDE"
   },
   {
-    "package": "epidemics",
-    "url": "https://github.com/epiverse-trace/epidemics"
+    "package": "EnvStats",
+    "url": "https://github.com/alexkowa/EnvStats"
   },
   {
-    "package": "sivirep",
-    "url": "https://github.com/epiverse-trace/sivirep"
+    "package": "Epi",
+    "url": "https://github.com/cran/Epi"
   },
   {
-    "package": "iraca",
-    "url": "https://github.com/epiverse-trace/iraca"
+    "package": "EpiContactTrace",
+    "url": "https://github.com/stewid/EpiContactTrace"
   },
   {
-    "package": "episoap",
-    "url": "https://github.com/epiverse-trace/episoap"
+    "package": "EpiCurve",
+    "url": "https://github.com/IamKDO/EpiCurve"
   },
   {
-    "package": "quickfit",
-    "url": "https://github.com/epiverse-trace/quickfit"
+    "package": "EpiEstim",
+    "url": "https://github.com/mrc-ide/EpiEstim"
   },
   {
-    "package": "scenarios",
-    "url": "https://github.com/epiverse-trace/scenarios"
+    "package": "EpiILM",
+    "url": "https://github.com/waleedalmutiry/EpiILM"
   },
   {
-    "package": "numberize",
-    "url": "https://github.com/epiverse-trace/numberize"
+    "package": "EpiILMCT",
+    "url": "https://github.com/waleedalmutiry/EpiILMCT"
   },
   {
-    "package": "ColOpenData",
-    "url": "https://github.com/epiverse-trace/ColOpenData"
+    "package": "EpiModel",
+    "url": "https://github.com/EpiModel/EpiModel"
+  },
+  {
+    "package": "EpiNow2",
+    "url": "https://github.com/epiforecasts/EpiNow2"
+  },
+  {
+    "package": "EpiReport",
+    "url": "https://github.com/EU-ECDC/EpiReport"
+  },
+  {
+    "package": "EpiSignalDetection",
+    "url": "https://github.com/EU-ECDC/EpiSignalDetection"
+  },
+  {
+    "package": "HIMA",
+    "url": "https://github.com/YinanZheng/HIMA"
+  },
+  {
+    "package": "NADA",
+    "url": "https://github.com/cran/NADA"
+  },
+  {
+    "package": "R0",
+    "url": "https://github.com/tobadia/R0"
+  },
+  {
+    "package": "RSurveillance",
+    "url": "https://github.com/roStats/RSurveillance"
+  },
+  {
+    "package": "SimInf",
+    "url": "https://github.com/stewid/SimInf"
+  },
+  {
+    "package": "SpatialEpi",
+    "url": "https://github.com/rudeboybert/SpatialEpi"
+  },
+  {
+    "package": "TransPhylo",
+    "url": "https://github.com/xavierdidelot/TransPhylo"
+  },
+  {
+    "package": "adegenet",
+    "url": "https://github.com/thibautjombart/adegenet"
+  },
+  {
+    "package": "apisensr",
+    "url": "https://github.com/dhaine/apisensr"
+  },
+  {
+    "package": "argo",
+    "url": "https://github.com/cran/argo"
+  },
+  {
+    "package": "bets.covid19",
+    "url": "https://github.com/qingyuanzhao/bets.covid19"
+  },
+  {
+    "package": "bkmr",
+    "url": "https://github.com/jenfb/bkmr"
+  },
+  {
+    "package": "cfr",
+    "url": "https://github.com/epiverse-trace/cfr"
+  },
+  {
+    "package": "cholera",
+    "url": "https://github.com/lindbrook/cholera"
+  },
+  {
+    "package": "cmprsk",
+    "url": "https://github.com/cran/cmprsk"
+  },
+  {
+    "package": "coarseDataTools",
+    "url": "https://github.com/nickreich/coarseDataTools"
+  },
+  {
+    "package": "contactdata",
+    "url": "https://github.com/bisaloo/contactdata"
+  },
+  {
+    "package": "corona",
+    "url": "https://github.com/cran/corona"
+  },
+  {
+    "package": "coronavirus",
+    "url": "https://github.com/RamiKrispin/coronavirus"
+  },
+  {
+    "package": "covid19.analytics",
+    "url": "https://github.com/mponce0/covid19.analytics"
+  },
+  {
+    "package": "covid19br",
+    "url": "https://github.com/fndemarqui/covid19br"
+  },
+  {
+    "package": "covid19dbcand",
+    "url": "https://github.com/MohammedFCIS/covid19dbcand"
+  },
+  {
+    "package": "covid19france",
+    "url": "https://github.com/Covid19R/covid19france"
+  },
+  {
+    "package": "covid19italy",
+    "url": "https://github.com/RamiKrispin/covid19italy"
+  },
+  {
+    "package": "covid19sf",
+    "url": "https://github.com/RamiKrispin/covid19sf"
+  },
+  {
+    "package": "covid19swiss",
+    "url": "https://github.com/Covid19R/covid19swiss"
+  },
+  {
+    "package": "covid19us",
+    "url": "https://github.com/aedobbyn/covid19us"
+  },
+  {
+    "package": "dbparser",
+    "url": "https://github.com/ropensci/dbparser"
+  },
+  {
+    "package": "dde",
+    "url": "https://github.com/mrc-ide/dde"
+  },
+  {
+    "package": "deSolve",
+    "url": "https://github.com/cran/deSolve"
+  },
+  {
+    "package": "earlyR",
+    "url": "https://github.com/reconhub/earlyR"
+  },
+  {
+    "package": "endtoend",
+    "url": "https://github.com/cran/endtoend"
+  },
+  {
+    "package": "epiDisplay",
+    "url": "https://github.com/cran/epiDisplay"
+  },
+  {
+    "package": "epiR",
+    "url": "https://github.com/mstevenson888/epiR"
+  },
+  {
+    "package": "epibasix",
+    "url": "https://github.com/cran/epibasix"
+  },
+  {
+    "package": "epicontacts",
+    "url": "https://github.com/reconhub/epicontacts"
+  },
+  {
+    "package": "epiflows",
+    "url": "https://github.com/reconhub/epiflows"
+  },
+  {
+    "package": "epimdr",
+    "url": "https://github.com/objornstad/epimdr"
+  },
+  {
+    "package": "epinet",
+    "url": "https://github.com/cran/epinet"
+  },
+  {
+    "package": "episensr",
+    "url": "https://github.com/dhaine/episensr"
+  },
+  {
+    "package": "epitools",
+    "url": "https://github.com/cran/epitools"
+  },
+  {
+    "package": "epitrix",
+    "url": "https://github.com/reconhub/epitrix"
+  },
+  {
+    "package": "epitweetr",
+    "url": "https://github.com/EU-ECDC/epitweetr"
+  },
+  {
+    "package": "etm",
+    "url": "https://github.com/mclements/etm"
+  },
+  {
+    "package": "finalsize",
+    "url": "https://github.com/epiverse-trace/finalsize"
+  },
+  {
+    "package": "i2extras",
+    "url": "https://github.com/reconverse/i2extras"
+  },
+  {
+    "package": "incidence",
+    "url": "https://github.com/reconhub/incidence"
+  },
+  {
+    "package": "incidence2",
+    "url": "https://github.com/reconverse/incidence2"
+  },
+  {
+    "package": "linelist",
+    "url": "https://github.com/epiverse-trace/linelist"
+  },
+  {
+    "package": "malariaAtlas",
+    "url": "https://github.com/malaria-atlas-project/malariaAtlas"
+  },
+  {
+    "package": "mediation",
+    "url": "https://github.com/kosukeimai/mediation"
+  },
+  {
+    "package": "mem",
+    "url": "https://github.com/lozalojo/mem"
+  },
+  {
+    "package": "memapp",
+    "url": "https://github.com/lozalojo/memapp"
+  },
+  {
+    "package": "mma",
+    "url": "https://github.com/cran/mma"
+  },
+  {
+    "package": "modelSSE",
+    "url": "https://github.com/cran/modelSSE"
+  },
+  {
+    "package": "mstate",
+    "url": "https://github.com/hputter/mstate"
+  },
+  {
+    "package": "nbTransmission",
+    "url": "https://github.com/sarahleavitt/nbTransmission"
+  },
+  {
+    "package": "nhanesA",
+    "url": "https://github.com/cjendres1/nhanes"
+  },
+  {
+    "package": "nosoi",
+    "url": "https://github.com/slequime/nosoi"
+  },
+  {
+    "package": "o2geosocial",
+    "url": "https://github.com/alxsrobert/o2geosocial"
+  },
+  {
+    "package": "odin",
+    "url": "https://github.com/mrc-ide/odin"
+  },
+  {
+    "package": "outbreaker2",
+    "url": "https://github.com/reconhub/outbreaker2"
+  },
+  {
+    "package": "outbreaks",
+    "url": "https://github.com/reconhub/outbreaks"
+  },
+  {
+    "package": "pomp",
+    "url": "https://github.com/kingaa/pomp"
+  },
+  {
+    "package": "popEpi",
+    "url": "https://github.com/FinnishCancerRegistry/popEpi"
+  },
+  {
+    "package": "powerSurvEpi",
+    "url": "https://github.com/cran/powerSurvEpi"
+  },
+  {
+    "package": "riskCommunicator",
+    "url": "https://github.com/jgrembi/riskCommunicator"
+  },
+  {
+    "package": "socialmixr",
+    "url": "https://github.com/epiforecasts/socialmixr"
+  },
+  {
+    "package": "surveillance",
+    "url": "https://github.com/cran/surveillance"
+  },
+  {
+    "package": "trendeval",
+    "url": "https://github.com/reconverse/trendeval"
+  },
+  {
+    "package": "trending",
+    "url": "https://github.com/reconverse/trending"
+  },
+  {
+    "package": "tsiR",
+    "url": "https://github.com/adbecker/tsiR"
   }
 ]
