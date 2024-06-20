@@ -120,6 +120,10 @@
     "url": "https://github.com/lindbrook/cholera"
   },
   {
+    "package": "cleanepi",
+    "url": "https://github.com/epiverse-trace/cleanepi"
+  },
+  {
     "package": "cmprsk",
     "url": "https://github.com/cran/cmprsk"
   },
@@ -247,6 +251,10 @@
   {
     "package": "incidence2",
     "url": "https://github.com/reconverse/incidence2"
+  },
+  {
+    "package": "inctools",
+    "url": "https://github.com/SACEMA/inctools"
   },
   {
     "package": "linelist",
