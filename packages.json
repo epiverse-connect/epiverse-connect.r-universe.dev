@@ -132,6 +132,10 @@
     "url": "https://github.com/nickreich/coarseDataTools"
   },
   {
+    "package": "colmozzie",
+    "url": "https://github.com/thiyangt/colmozzie"
+  },
+  {
     "package": "contactdata",
     "url": "https://github.com/bisaloo/contactdata"
   },
@@ -186,6 +190,14 @@
   {
     "package": "deSolve",
     "url": "https://github.com/cran/deSolve"
+  },
+  {
+    "package": "denguedatahub",
+    "url": "https://github.com/thiyangt/denguedatahub"
+  },
+  {
+    "package": "diyar",
+    "url": "https://github.com/OlisaNsonwu/diyar"
   },
   {
     "package": "earlyR",
@@ -331,6 +343,10 @@
   {
     "package": "riskCommunicator",
     "url": "https://github.com/jgrembi/riskCommunicator"
+  },
+  {
+    "package": "shinySIR",
+    "url": "https://github.com/SineadMorris/shinySIR"
   },
   {
     "package": "socialmixr",
