@@ -36,6 +36,10 @@
     "url": "https://github.com/IamKDO/EpiCurve"
   },
   {
+    "package": "EpiDynamics",
+    "url": "https://github.com/oswaldosantos/EpiDynamics"
+  },
+  {
     "package": "EpiEstim",
     "url": "https://github.com/mrc-ide/EpiEstim"
   },
@@ -62,6 +66,10 @@
   {
     "package": "EpiSignalDetection",
     "url": "https://github.com/EU-ECDC/EpiSignalDetection"
+  },
+  {
+    "package": "EpiStats",
+    "url": "https://github.com/cran/EpiStats"
   },
   {
     "package": "HIMA",
@@ -208,6 +216,10 @@
     "url": "https://github.com/cran/endtoend"
   },
   {
+    "package": "epiCleanr",
+    "url": "https://github.com/truenomad/epiCleanr"
+  },
+  {
     "package": "epiDisplay",
     "url": "https://github.com/cran/epiDisplay"
   },
@@ -220,20 +232,52 @@
     "url": "https://github.com/cran/epibasix"
   },
   {
+    "package": "epicasting",
+    "url": "https://github.com/cran/epicasting"
+  },
+  {
     "package": "epicontacts",
     "url": "https://github.com/reconhub/epicontacts"
+  },
+  {
+    "package": "epidatr",
+    "url": "https://github.com/cmu-delphi/epidatr"
+  },
+  {
+    "package": "epidm",
+    "url": "https://github.com/alexbhatt/epidm"
   },
   {
     "package": "epiflows",
     "url": "https://github.com/reconhub/epiflows"
   },
   {
+    "package": "epigrowthfit",
+    "url": "https://github.com/davidearn/epigrowthfit"
+  },
+  {
+    "package": "epikit",
+    "url": "https://github.com/R4EPI/epikit"
+  },
+  {
+    "package": "epimdr2",
+    "url": "https://github.com/objornstad/epimdr2>"
+  },
+  {
     "package": "epinet",
     "url": "https://github.com/cran/epinet"
   },
   {
+    "package": "epiphy",
+    "url": "https://github.com/chgigot/epiphy"
+  },
+  {
     "package": "episensr",
     "url": "https://github.com/dhaine/episensr"
+  },
+  {
+    "package": "epitab",
+    "url": "https://github.com/stulacy/epitab"
   },
   {
     "package": "epitools",
@@ -247,6 +291,14 @@
     "package": "epitweetr",
     "url": "https://github.com/EU-ECDC/epitweetr",
     "subdir": "epitweetr"
+  },
+  {
+    "package": "epiworldR",
+    "url": "https://github.com/UofUEpiBio/epiworldR"
+  },
+  {
+    "package": "epiworldRShiny",
+    "url": "https://github.com/UofUEpiBio/epiworldRShiny"
   },
   {
     "package": "etm",
