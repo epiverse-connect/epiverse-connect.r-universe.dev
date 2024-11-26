@@ -4,7 +4,8 @@ extra_opts <- tibble::tribble(
 )
 
 read.csv("https://raw.githubusercontent.com/cran-task-views/Epidemiology/main/data/source_repositories.csv") |>
-  dplyr::rename(package = "package") |>
+  # Remove environmental epidemiology packages
+  dplyr::filter(!package %in% c("NADA", "EnvStats", "bkmr", "mediation", "mma", "HIMA")) |>
   dplyr::mutate(github_repo = ifelse(!is.na(github_repo), github_repo, glue::glue('cran/{package}'))) |>
   dplyr::mutate(
     url = glue::glue("https://github.com/{github_repo}"),

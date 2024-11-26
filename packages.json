@@ -20,10 +20,6 @@
     "url": "https://github.com/ahgroup/DSAIDE"
   },
   {
-    "package": "EnvStats",
-    "url": "https://github.com/alexkowa/EnvStats"
-  },
-  {
     "package": "Epi",
     "url": "https://github.com/cran/Epi"
   },
@@ -72,14 +68,6 @@
     "url": "https://github.com/cran/EpiStats"
   },
   {
-    "package": "HIMA",
-    "url": "https://github.com/YinanZheng/HIMA"
-  },
-  {
-    "package": "NADA",
-    "url": "https://github.com/cran/NADA"
-  },
-  {
     "package": "R0",
     "url": "https://github.com/tobadia/R0"
   },
@@ -114,10 +102,6 @@
   {
     "package": "bets.covid19",
     "url": "https://github.com/qingyuanzhao/bets.covid19"
-  },
-  {
-    "package": "bkmr",
-    "url": "https://github.com/jenfb/bkmr"
   },
   {
     "package": "cfr",
@@ -329,20 +313,12 @@
     "url": "https://github.com/malaria-atlas-project/malariaAtlas"
   },
   {
-    "package": "mediation",
-    "url": "https://github.com/kosukeimai/mediation"
-  },
-  {
     "package": "mem",
     "url": "https://github.com/lozalojo/mem"
   },
   {
     "package": "memapp",
     "url": "https://github.com/lozalojo/memapp"
-  },
-  {
-    "package": "mma",
-    "url": "https://github.com/cran/mma"
   },
   {
     "package": "modelSSE",
