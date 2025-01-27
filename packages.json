@@ -40,6 +40,10 @@
     "url": "https://github.com/mrc-ide/EpiEstim"
   },
   {
+    "package": "EpiForsk",
+    "url": "https://github.com/Laksafoss/EpiForsk"
+  },
+  {
     "package": "EpiILM",
     "url": "https://github.com/waleedalmutiry/EpiILM"
   },
@@ -204,6 +208,10 @@
     "url": "https://github.com/truenomad/epiCleanr"
   },
   {
+    "package": "epiCo",
+    "url": "https://github.com/epiverse-trace/epiCo"
+  },
+  {
     "package": "epiDisplay",
     "url": "https://github.com/cran/epiDisplay"
   },
@@ -218,6 +226,10 @@
   {
     "package": "epicasting",
     "url": "https://github.com/cran/epicasting"
+  },
+  {
+    "package": "epichains",
+    "url": "https://github.com/epiverse-trace/epichains"
   },
   {
     "package": "epicontacts",
@@ -250,6 +262,14 @@
   {
     "package": "epinet",
     "url": "https://github.com/cran/epinet"
+  },
+  {
+    "package": "epiparameter",
+    "url": "https://github.com/epiverse-trace/epiparameter"
+  },
+  {
+    "package": "epiparameterDB",
+    "url": "https://github.com/epiverse-trace/epiparameterDB"
   },
   {
     "package": "epiphy",
@@ -289,8 +309,16 @@
     "url": "https://github.com/mclements/etm"
   },
   {
+    "package": "excessmort",
+    "url": "https://github.com/rafalab/excessmort"
+  },
+  {
     "package": "finalsize",
     "url": "https://github.com/epiverse-trace/finalsize"
+  },
+  {
+    "package": "hmsidwR",
+    "url": "https://github.com/Fgazzelloni/hmsidwR"
   },
   {
     "package": "incidence",
@@ -377,6 +405,10 @@
     "url": "https://github.com/SineadMorris/shinySIR"
   },
   {
+    "package": "sivirep",
+    "url": "https://github.com/epiverse-trace/sivirep"
+  },
+  {
     "package": "socialmixr",
     "url": "https://github.com/epiforecasts/socialmixr"
   },
@@ -395,5 +427,9 @@
   {
     "package": "tsiR",
     "url": "https://github.com/adbecker/tsiR"
+  },
+  {
+    "package": "vaccineff",
+    "url": "https://github.com/epiverse-trace/vaccineff"
   }
 ]
