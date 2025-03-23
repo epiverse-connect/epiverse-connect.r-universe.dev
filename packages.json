@@ -4,6 +4,14 @@
     "url": "https://github.com/msberends/AMR"
   },
   {
+    "package": "ATQ",
+    "url": "https://github.com/vjoshy/ATQ_Surveillance_Package"
+  },
+  {
+    "package": "BayesianFitForecast",
+    "url": "https://github.com/gchowell/BayesianFitForecast"
+  },
+  {
     "package": "Bernadette",
     "url": "https://github.com/bernadette-eu/Bernadette"
   },
@@ -18,6 +26,10 @@
   {
     "package": "DSAIDE",
     "url": "https://github.com/ahgroup/DSAIDE"
+  },
+  {
+    "package": "EVI",
+    "url": "https://github.com/ku-awdc/EVI"
   },
   {
     "package": "Epi",
@@ -50,6 +62,10 @@
   {
     "package": "EpiILMCT",
     "url": "https://github.com/waleedalmutiry/EpiILMCT"
+  },
+  {
+    "package": "EpiInvert",
+    "url": "https://github.com/lalvarezmat/EpiInvert"
   },
   {
     "package": "EpiModel",
@@ -96,6 +112,10 @@
     "url": "https://github.com/thibautjombart/adegenet"
   },
   {
+    "package": "aedseo",
+    "url": "https://github.com/ssi-dk/aedseo"
+  },
+  {
     "package": "apisensr",
     "url": "https://github.com/dhaine/apisensr"
   },
@@ -106,6 +126,10 @@
   {
     "package": "bets.covid19",
     "url": "https://github.com/qingyuanzhao/bets.covid19"
+  },
+  {
+    "package": "cercospoRa",
+    "url": "https://github.com/PaulMelloy/cercospoRa"
   },
   {
     "package": "cfr",
@@ -176,6 +200,10 @@
     "url": "https://github.com/aedobbyn/covid19us"
   },
   {
+    "package": "dataquieR",
+    "url": "https://github.com/cran/dataquieR"
+  },
+  {
     "package": "dbparser",
     "url": "https://github.com/ropensci/dbparser"
   },
@@ -198,6 +226,10 @@
   {
     "package": "earlyR",
     "url": "https://github.com/reconhub/earlyR"
+  },
+  {
+    "package": "eesim",
+    "url": "https://github.com/cran/eesim"
   },
   {
     "package": "endtoend",
@@ -242,6 +274,10 @@
   {
     "package": "epidm",
     "url": "https://github.com/alexbhatt/epidm"
+  },
+  {
+    "package": "epifitter",
+    "url": "https://github.com/AlvesKS/epifitter"
   },
   {
     "package": "epiflows",
@@ -317,6 +353,14 @@
     "url": "https://github.com/epiverse-trace/finalsize"
   },
   {
+    "package": "genSEIR",
+    "url": "https://github.com/selcukorkmaz/genSEIR"
+  },
+  {
+    "package": "ggsurveillance",
+    "url": "https://github.com/biostats-dev/ggsurveillance"
+  },
+  {
     "package": "hmsidwR",
     "url": "https://github.com/Fgazzelloni/hmsidwR"
   },
@@ -335,6 +379,10 @@
   {
     "package": "linelist",
     "url": "https://github.com/epiverse-trace/linelist"
+  },
+  {
+    "package": "linelistBayes",
+    "url": "https://github.com/cmilando/linelistBayes"
   },
   {
     "package": "malariaAtlas",
@@ -385,6 +433,10 @@
     "url": "https://github.com/reconhub/outbreaks"
   },
   {
+    "package": "phylepic",
+    "url": "https://github.com/cidm-ph/phylepic"
+  },
+  {
     "package": "pomp",
     "url": "https://github.com/kingaa/pomp"
   },
@@ -401,6 +453,10 @@
     "url": "https://github.com/jgrembi/riskCommunicator"
   },
   {
+    "package": "rplanes",
+    "url": "https://github.com/signaturescience/rplanes"
+  },
+  {
     "package": "shinySIR",
     "url": "https://github.com/SineadMorris/shinySIR"
   },
@@ -413,8 +469,16 @@
     "url": "https://github.com/epiforecasts/socialmixr"
   },
   {
+    "package": "superspreading",
+    "url": "https://github.com/epiverse-trace/superspreading"
+  },
+  {
     "package": "surveillance",
     "url": "https://github.com/cran/surveillance"
+  },
+  {
+    "package": "tidyrates",
+    "url": "https://github.com/rfsaldanha/tidyrates"
   },
   {
     "package": "trendeval",
