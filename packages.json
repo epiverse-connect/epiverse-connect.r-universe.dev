@@ -433,6 +433,10 @@
     "url": "https://github.com/reconhub/outbreaks"
   },
   {
+    "package": "pcpr",
+    "url": "https://github.com/Columbia-PRIME/pcpr"
+  },
+  {
     "package": "phylepic",
     "url": "https://github.com/cidm-ph/phylepic"
   },
