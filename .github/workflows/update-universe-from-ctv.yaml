@@ -6,7 +6,7 @@ on:
     - cron: '24 3 * * 3'
 
 jobs:
-  deploy:
+  update-packages-db:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,3 +26,13 @@ jobs:
             jsonlite
 
       - run: Rscript create_universe.R
+
+      - name: Save data/source_repositories.csv
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add packages.json
+          git diff-index --quiet HEAD || git commit -m 'Add new pkgs from the CRAN Task View'
+          git pull --rebase origin main
+          git push
+          echo "pushed to github"
