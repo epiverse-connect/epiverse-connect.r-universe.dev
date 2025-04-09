@@ -461,6 +461,10 @@
     "url": "https://github.com/SineadMorris/shinySIR"
   },
   {
+    "package": "simulist",
+    "url": "https://github.com/epiverse-trace/simulist"
+  },
+  {
     "package": "sivirep",
     "url": "https://github.com/epiverse-trace/sivirep"
   },
