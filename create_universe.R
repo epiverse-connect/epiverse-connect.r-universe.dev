@@ -1,6 +1,7 @@
 extra_opts <- tibble::tribble(
   ~package, ~subdir,
-  "epitweetr", "epitweetr"
+  "epitweetr", "epitweetr",
+  "epimdr2", "source"
 )
 
 read.csv("https://raw.githubusercontent.com/cran-task-views/Epidemiology/main/data/source_repositories.csv") |>
