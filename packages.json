@@ -56,14 +56,6 @@
     "url": "https://github.com/Laksafoss/EpiForsk"
   },
   {
-    "package": "EpiILM",
-    "url": "https://github.com/waleedalmutiry/EpiILM"
-  },
-  {
-    "package": "EpiILMCT",
-    "url": "https://github.com/waleedalmutiry/EpiILMCT"
-  },
-  {
     "package": "EpiInvert",
     "url": "https://github.com/lalvarezmat/EpiInvert"
   },
@@ -117,7 +109,7 @@
   },
   {
     "package": "apisensr",
-    "url": "https://github.com/dhaine/apisensr"
+    "url": "https://github.com/cran/apisensr"
   },
   {
     "package": "argo",
@@ -170,10 +162,6 @@
   {
     "package": "covid19.analytics",
     "url": "https://github.com/mponce0/covid19.analytics"
-  },
-  {
-    "package": "covid19br",
-    "url": "https://github.com/fndemarqui/covid19br"
   },
   {
     "package": "covid19dbcand",
@@ -327,11 +315,6 @@
   {
     "package": "epitrix",
     "url": "https://github.com/reconhub/epitrix"
-  },
-  {
-    "package": "epitweetr",
-    "url": "https://github.com/EU-ECDC/epitweetr",
-    "subdir": "epitweetr"
   },
   {
     "package": "epiworldR",
@@ -500,5 +483,9 @@
   {
     "package": "vaccineff",
     "url": "https://github.com/epiverse-trace/vaccineff"
+  },
+  {
+    "package": "epitweetr",
+    "subdir": "epitweetr"
   }
 ]
