@@ -280,11 +280,6 @@
     "url": "https://github.com/R4EPI/epikit"
   },
   {
-    "package": "epimdr2",
-    "url": "https://github.com/objornstad/epimdr2",
-    "subdir": "source"
-  },
-  {
     "package": "epinet",
     "url": "https://github.com/cran/epinet"
   },
@@ -487,5 +482,9 @@
   {
     "package": "epitweetr",
     "subdir": "epitweetr"
+  },
+  {
+    "package": "epimdr2",
+    "subdir": "source"
   }
 ]
